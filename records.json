@@ -1,0 +1,24 @@
+[
+    {
+        "ID": 101,
+        "Name": "Aayush Shape",
+        "Age": 20,
+        "Course": "MCA",
+        "Marks": 88.5
+        
+    },
+    {
+        "ID": 102,
+        "Name": "Yash Thakur",
+        "Age": 22,
+        "Course": "MCA",
+        "Marks": 75.0
+    },
+    {
+        "ID": 103,
+        "Name": "Rahul Chaudhary",
+        "Age": 21,
+        "Course": "MCA",
+        "Marks": 91.2
+    }
+]
